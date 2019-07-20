@@ -8,3 +8,9 @@ homework in NLP class
 ## Lesson-02
 - [课堂代码recoding](https://github.com/HaiBlueSea/Assignment-NLP/blob/master/lesson-02/lesson-02.ipynb)
 - [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/blob/master/lesson-02/Homework-02.ipynb)
+
+## Lesson-03
+
+- [课堂代码recoding](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-03/lesson-03-Decorator-and-Dynamic-Programming.ipynb)
+- [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-03/Homework-03.ipynb)
+
