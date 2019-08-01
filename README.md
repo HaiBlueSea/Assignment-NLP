@@ -14,3 +14,6 @@ homework in NLP class
 - [课堂代码recoding](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-03/lesson-03-Decorator-and-Dynamic-Programming.ipynb)
 - [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-03/Homework-03.ipynb)
 
+## Lesson-04
+
+- [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-04/Homework-04.ipynb)

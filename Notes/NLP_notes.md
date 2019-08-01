@@ -1,7 +1,5 @@
 
 
-[TOC]
-
 
 
 ## 各类理论知识
@@ -75,6 +73,10 @@ $$
 $$
 如图，经过四次的运算，也就是走了四步，基本就抵达了函数的最低点
 ![img](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/Notes/assets/1234352-bb7fa36d116fcadc.png)
+
+
+
+![img](https://github.com/HaiBlueSea/Assignment-NLP/blob/master/Notes/assets/1234352-ba3da0b06da97ddb.png)
 
 ###### 多变量函数的梯度下降
 
