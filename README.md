@@ -17,3 +17,8 @@ homework in NLP class
 ## Lesson-04
 
 - [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-04/Homework-04.ipynb)
+
+## Lesson-05
+
+- [课堂代码recoding](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-05/lesson-05.ipynb)
+
