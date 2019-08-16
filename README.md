@@ -22,3 +22,7 @@ homework in NLP class
 
 - [课堂代码recoding](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-05/lesson-05.ipynb)
 
+## Lesson-06
+
+- [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-06/Homework-06.ipynb)
+
