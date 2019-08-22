@@ -26,3 +26,7 @@ homework in NLP class
 
 - [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-06/Homework-06.ipynb)
 
+## Lesson-07
+
+- [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-07/Homework-07.ipynb)
+
