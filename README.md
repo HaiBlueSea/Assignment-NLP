@@ -38,3 +38,7 @@ homework in NLP class
 
 - [课后作业](https://github.com/HaiBlueSea/Assignment-NLP/tree/master/lesson-09)
 
+## Project-01
+
+- [项目文件](https://github.com/HaiBlueSea/MyProjectOrigin/tree/master/NewExtraction_01)
+
