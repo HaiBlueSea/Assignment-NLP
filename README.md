@@ -42,3 +42,9 @@ homework in NLP class
 
 - [项目文件](https://github.com/HaiBlueSea/MyProjectOrigin/tree/master/NewExtraction_01)
 
+## Homework-10
+
+- [构建一个简单神经网络框架](./lesson-10/Homework-10-build-neural-networks.ipynb)
+- [Tensorflow练习](./lesson-10/Homewok-10-Tensorflow-Practice.ipynb)
+- [电影评论分类](./lesson-10/Homework-Comments-Classify-01.ipynb)
+
