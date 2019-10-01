@@ -74,6 +74,7 @@ homework in NLP class
      1. 全连接
      2. 正则化
      3. 处理过拟合和欠拟合问题
+  2. K-means练习
 
 ## Project-01
 
@@ -84,4 +85,9 @@ homework in NLP class
 - [构建一个简单神经网络框架](./lesson-10/Homework-10-build-neural-networks.ipynb)
 - [Tensorflow练习](./lesson-10/Homewok-10-Tensorflow-Practice.ipynb)
 - [电影评论分类](./lesson-10/Homework-Comments-Classify-01.ipynb)
+
+## Homework-12
+
+- [CNN分类图片](./lesson-12/Homework-cnn.ipynb)
+- [从LetNet到ResNet总结](./lesson-12/LetNet-ResNet.ipynb)
 
