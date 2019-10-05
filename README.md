@@ -80,14 +80,22 @@ homework in NLP class
 
 - [项目文件](https://github.com/HaiBlueSea/MyProjectOrigin/tree/master/NewExtraction_01)
 
-## Homework-10
+## Lesson-11
 
 - [构建一个简单神经网络框架](./lesson-10/Homework-10-build-neural-networks.ipynb)
 - [Tensorflow练习](./lesson-10/Homewok-10-Tensorflow-Practice.ipynb)
 - [电影评论分类](./lesson-10/Homework-Comments-Classify-01.ipynb)
 
-## Homework-12
+## Lesson-12
 
 - [CNN分类图片](./lesson-12/Homework-cnn.ipynb)
 - [从LetNet到ResNet总结](./lesson-12/LetNet-ResNet.ipynb)
+
+## Lesson-13
+
+数据集均使用的同一个：Toxic-comments
+
+- [KaggleProject](./leeson-13/GRU+Bidirectional.ipynb)
+- [TextCNN训练](./lesson-13/TextCnn.ipynb)
+- [RNN_LSTM_GRU训练](./lesson-13/Text_RNN.ipynb)
 
