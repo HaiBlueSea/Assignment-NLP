@@ -78,6 +78,8 @@ homework in NLP class
 
 ## Project-01
 
+项目部署端口：8567
+
 - [项目文件](https://github.com/HaiBlueSea/MyProjectOrigin/tree/master/NewExtraction_01)
 
 ## Lesson-11
